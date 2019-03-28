@@ -1,2 +1,2 @@
-# slide-decks
-Slides da Coolab
+# Slides e apresentações
+coolab.org
